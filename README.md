@@ -1,2 +1,2 @@
 # LabWorks
-Main branch
+Lab2 branch
